@@ -57,12 +57,12 @@ export default function ValentineProposal() {
 
     const noPhrases = [
         "No",
-        "Are you sure?",
-        "Really sure?",
-        "Think again!",
+        "Are you sure nana?",
+        "Really sure bngrm?",
+        "Think again Hero!",
         "Last chance!",
         "Surely not?",
-        "You might regret this!",
+        "You might regret this!MY man",
         "Give it another thought!",
         "Are you absolutely sure?",
         "This could be a mistake!",
@@ -70,7 +70,7 @@ export default function ValentineProposal() {
         "Don't be so cold!",
         "Change of heart?",
         "Wouldn't you reconsider?",
-        "Is that your final answer?",
+        "Is that your final answer ha?",
         "You're breaking my heart ;(",
     ];
 
@@ -166,14 +166,14 @@ export default function ValentineProposal() {
                                 <div className="absolute inset-0 bg-primary/20 rounded-full blur-2xl animate-pulse"></div>
                                 <div
                                     className="relative w-full h-full bg-center bg-no-repeat bg-contain"
-                                    style={{ backgroundImage: 'url("/assets/il_1588xN.7637972537_n050.avif")' }}
+                                    style={{ backgroundImage: 'url("assets/download (1).jpg/avif")' }}
                                 />
                             </div>
                             <h1 className="text-4xl md:text-5xl font-bold text-primary animate-bounce">
                                 Yay!!! ❤️
                             </h1>
                             <p className="text-xl text-[#896168]">
-                                I knew you'd say yes! I love you!
+                                Hurray! I knew you'd say yes! I love you Bngrm
                             </p>
                         </motion.div>
                     )}
